@@ -2,7 +2,7 @@
 
 A simple repetitive timer developed with python GUI library `tkinter`.
 
-[Download](https://github.com/HeekangPark/Repetitive-Timer/blob/master/dist/Repetitive%20Timer.exe)
+[Download](https://github.com/HeekangPark/Repetitive-Timer/raw/master/dist/Repetitive%20Timer.exe)
 
 ![screenshot](https://user-images.githubusercontent.com/16741548/89565574-b8108200-d859-11ea-8358-84c67776261e.png)
 
